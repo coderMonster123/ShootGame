@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ZhiFu"
+  id="myeclipse.1597030180746"
+  context-root="/ZhiFu"
+  j2ee-spec="5.0"
+  archive="ZhiFu.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
